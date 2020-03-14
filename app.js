@@ -253,3 +253,4 @@ function carregaListaDespesas(despesas = Array(), filtro = false) {
 	this.carregaListaDespesas(despesas, true)
 
  }
+//By WhiteRose
